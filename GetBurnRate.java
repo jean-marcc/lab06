@@ -1,5 +1,5 @@
 import java.io.*;
-
+//This is a small change
 public class GetBurnRate{
   public static void main(String[] args){
     System.out.println("#Welcome to Lunar Lander");
